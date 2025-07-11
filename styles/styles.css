@@ -1,4 +1,4 @@
-/*navigation bar*/
+/*header part*/
 
 .header
 
@@ -17,13 +17,15 @@ margin: 0px 150px;
 color: white;
 height: 48px;
 width:132px ;
+border: none;
 }
 .btn{background-color: #4E47FF
     ;border-radius: 10px;
 color: white;
 height: 48px;
 width:132px ;
-margin: 0px 0px 152px 0px
+margin: 0px 0px 50px 0px;
+border: none;
 }
 
 .normal-font {
@@ -48,9 +50,30 @@ font-weight: bolder;}
   
   font-style: normal;
   font-weight: bold;
-  font-size: 35px;
-  margin: 100px 0px 0px 0px;
-  
 }
+.raleway-prymary{font-size: 35px;
+  margin: 100px 0px 0px 0px;
+  }
+/*main part*/
+.second-part{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 20px;
+  border: 2px solid #dbe3f2;
+  border-radius: 8px;
+  margin: 40px 0;
+  padding: 20px 50px;
+  margin-top: 100px;
+}
+.main{max-width: 1140px;
+        margin: 0px auto;}
+   .images
+        {border-radius: 48px;}
+  .Launch-Live-Preview {width: 229px;
+  height: 48px;}   
+
   
+
 
