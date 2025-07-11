@@ -35,8 +35,9 @@ border: none;
   font-style: normal;
   font-variation-settings:
     "slnt" 0,
-    "wdth" 100; 
-color:#4E47FF;
+    "wdth" 100;} 
+ .normal{color:#4E47FF;
+  margin-top: 50;
 font-size: 36px;
 font-weight: bolder;}
 .banner
@@ -72,7 +73,43 @@ font-weight: bolder;}
    .images
         {border-radius: 48px;}
   .Launch-Live-Preview {width: 229px;
-  height: 48px;}   
+  height: 48px;} 
+  
+  .projects{
+    text-align: center;
+    background-color: #E5E7FF;
+    max-width: 1140px;
+    height: 332px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 40px 20px;
+    margin-top: 116px;
+  }
+  .container
+  {display: flex;
+    justify-content: space-between;
+  }
+  .head{
+    font-size: 80px;
+    color: #4E47FF;
+    margin-top: 40px;
+    padding:0px 60px ;
+  }
+  .active
+  {font-size: 16px;
+    color: #000000;
+    margin-top: none;
+    margin-bottom: 50px;
+
+  }
+  .productive{
+    color: #252432;
+    width: 856px;
+    height: 45px;
+    font-weight: bold;
+    font-size: 38px;
+  }
+  /* card part*/
 
   
 
