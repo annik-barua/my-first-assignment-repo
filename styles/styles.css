@@ -18,6 +18,7 @@ color: white;
 height: 48px;
 width:132px ;
 border: none;
+cursor: pointer;
 }
 .btn{background-color: #4E47FF
     ;border-radius: 10px;
@@ -26,7 +27,9 @@ height: 48px;
 width:132px ;
 margin: 0px 0px 50px 0px;
 border: none;
+cursor: pointer;
 }
+button:hover{ background-color: #5a4bbd;}
 
 .normal-font {
   font-family: "TikTok Sans", sans-serif;
@@ -239,7 +242,9 @@ max-width: 250px;
 height: 48px;
 background-color: #4E47FF;
 color: white;
-border: none;}
+border: none;
+cursor: pointer;}
+
 
 
 .optional-five {max-width: 840px;
@@ -314,3 +319,31 @@ color: #555;
             
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)}
  .submit-button:hover {background-color: #5a4bbd;}
+
+
+ /*footer section*/
+
+ .footer{
+  text-align: center;
+  background-color: white;
+  margin: 0 auto;
+ }
+
+
+
+
+
+ .footer-logo
+
+
+
+ .footer-paragraph
+
+
+
+
+ .footer-list{
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+ }
