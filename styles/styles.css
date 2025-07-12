@@ -92,18 +92,18 @@ font-weight: bolder;}
   {display: flex;
     justify-content: space-between;
   }
+
+
   .head{
     font-size: 80px;
     color: #4E47FF;
     margin-top: 40px;
-    padding:0px 60px ;
+    padding:0px 30px ;
   }
   .active
   {font-size: 16px;
     color: #000000;
-    margin-top: none;
-    margin-bottom: 50px;
-
+     margin-bottom: 50px
   }
   .productive{
     color: #252432;
@@ -129,7 +129,7 @@ font-weight: bolder;}
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
-    margin-top: 20px;
+    margin-top: 110px;
     margin-bottom: 20px;
 }
 
