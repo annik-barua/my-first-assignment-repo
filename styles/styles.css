@@ -138,6 +138,7 @@ font-weight: bolder;}
 
 .division{display: flex;
   justify-content: space-between;
+  gap: 30px;
 }
 
 .card {
