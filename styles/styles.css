@@ -20,7 +20,7 @@ width:132px ;
 border: none;
 cursor: pointer;
 }
-.btn{background-color: #259bb3
+.btn{background-color: #4E47FF
     ;border-radius: 10px;
 color: white;
 height: 48px;
@@ -29,7 +29,7 @@ margin: 0px 0px 50px 0px;
 border: none;
 cursor: pointer;
 }
-button:hover{ background-color:rgb(91, 91, 247);}
+button:hover{ background-color:rgb(223, 233, 82);}
 
 .normal-font {
   font-family: "TikTok Sans", sans-serif;
@@ -309,7 +309,7 @@ color: #555;
        
 .submit-button {
             width: 100%;
-            background-color: #6a5acd; 
+            background-color: #4E47FF; 
             color: #ffffff; 
             padding: 35px; 
             border-radius: 10px; 
@@ -318,7 +318,7 @@ color: #555;
             cursor: pointer; 
             
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)}
- .submit-button:hover {background-color:rgb(91, 91, 247);}
+ .submit-button:hover {background-color:rgb(223, 233, 82);}
 
 
  /*footer section*/
