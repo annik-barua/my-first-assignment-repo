@@ -20,7 +20,7 @@ width:132px ;
 border: none;
 cursor: pointer;
 }
-.btn{background-color: #4E47FF
+.btn{background-color: #259bb3
     ;border-radius: 10px;
 color: white;
 height: 48px;
@@ -29,7 +29,7 @@ margin: 0px 0px 50px 0px;
 border: none;
 cursor: pointer;
 }
-button:hover{ background-color: #5a4bbd;}
+button:hover{ background-color:rgb(91, 91, 247);}
 
 .normal-font {
   font-family: "TikTok Sans", sans-serif;
@@ -318,32 +318,50 @@ color: #555;
             cursor: pointer; 
             
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)}
- .submit-button:hover {background-color: #5a4bbd;}
+ .submit-button:hover {background-color:rgb(91, 91, 247);}
 
 
  /*footer section*/
 
  .footer{
   text-align: center;
-  background-color: white;
+  background-color(223, 25, 25);
   margin: 0 auto;
+  width: 531px;
+  height: 428px;
  }
 
 
 
 
 
- .footer-logo
+ .footer-logo{font-weight: bolder;
+color: #4E47FF;
+font-size: 50px;
+margin-top: 30px;}
 
 
 
- .footer-paragraph
+ .footer-paragraph{font-weight: normal;
+font-size:16px;
+color:#8987A1;
+margin-bottom: 20px;}
 
 
 
 
  .footer-list{
+  color: #8987A1;
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
+  justify-content:space-between;
   text-decoration: none;
+  margin-top: 40px;
+  
+  
+  list-style-type: none;
+  align-items: center;
+  
  }
+ .footer-list li a {text-decoration: none;
+color: #8987A1;}
